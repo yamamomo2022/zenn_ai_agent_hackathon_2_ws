@@ -1,0 +1,2 @@
+# zenn_ai_agent_hackathon_2_ws
+第2回AlAgentHackathon with Google Cloudのワークスペースです。
