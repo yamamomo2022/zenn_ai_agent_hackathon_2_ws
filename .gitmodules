@@ -1,0 +1,7 @@
+[submodule "zenn_ai_agent_hackathon_2_backend"]
+	path = zenn_ai_agent_hackathon_2_backend
+	url = https://github.com/yamamomo2022/zenn_ai_agent_hackathon_2_backend.git
+[submodule "zenn_ai_agent_hackathon_2_frontend"]
+	path = zenn_ai_agent_hackathon_2_frontend
+	url = https://github.com/yamamomo2022/zenn_ai_agent_hackathon_2_frontend.git
+    
